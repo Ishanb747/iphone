@@ -6,8 +6,7 @@ import Highlights from './components/Highlights'
 import Model from './components/Model'
 import Footer from './components/Footer'
 import HowItWorks from './components/HowItWorks'
-import Features from './components/features'
-
+import Work from './components/work'
 const  App = () => {
   const [count, setCount] = useState(0)
 
@@ -18,7 +17,7 @@ const  App = () => {
       <Hero/>
       <Highlights/>
       <Model/>
-      <Features/>
+      <Work/>
       <HowItWorks/>
       <Footer/>
 
