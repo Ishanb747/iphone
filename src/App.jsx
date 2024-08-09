@@ -4,7 +4,7 @@ import Hero from './components/Hero'
 import Navbar from './components/Navbar'
 import Highlights from './components/Highlights'
 import Model from './components/Model'
-import Features from './components/Features'
+import Features from './components/features';
 import Footer from './components/Footer'
 import HowItWorks from './components/HowItWorks'
 
